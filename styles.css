@@ -19,7 +19,7 @@ h1, h2, h3 {
 p   {color: black;}
 .page{
     margin: 0;
-    background-color: #e1faf4;
+    background-color: #c8c58b;
     padding: 20pt;
     display: flex;
     flex-direction: column;
