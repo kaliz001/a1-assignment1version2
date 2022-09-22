@@ -1,8 +1,8 @@
 
-https://a1-khateraalizada.glitch.me/
+
 Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Glitch
 ===
-
+https://a1-khateraalizada.glitch.me/
 *DUE: Monday, August 30th by 11:59 AM (before the start of class!)*  
 
 This assignment is a "warm-up" exercise. 
